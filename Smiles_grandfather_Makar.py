@@ -8,3 +8,5 @@ for i in user_input:
     string+= i
  
 print(string[::-1])
+
+#bad
